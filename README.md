@@ -1,3 +1,3 @@
 # 🌟 Blog Manager
 
-## Live - 
+## Live - https://blog-manager-app.vercel.app/
